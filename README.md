@@ -56,4 +56,5 @@ endmodule
 <img width="1885" height="936" alt="Screenshot 2025-12-15 233845" src="https://github.com/user-attachments/assets/9de52de0-afaa-476d-8107-96280efe4c84" />
 
 **RESULTS**
+
 Thus the 4-Bit Ripple Counter implemented and verified.
